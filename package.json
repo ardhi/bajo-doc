@@ -1,0 +1,31 @@
+{
+  "name": "bajo-doc",
+  "version": "1.0.0",
+  "description": "Some 3rd party libs for Bajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardhi/bajo-doc.git"
+  },
+  "keywords": [
+    "doc",
+    "book",
+    "documentation",
+    "bajo",
+    "framework",
+    "fastify",
+    "modular"
+  ],
+  "author": "Ardhi Lukianto <ardhi@lukianto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardhi/bajo-doc/issues"
+  },
+  "homepage": "https://github.com/ardhi/bajo-doc#readme",
+  "dependencies": {
+  }
+}
