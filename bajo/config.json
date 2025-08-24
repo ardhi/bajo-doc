@@ -1,5 +1,0 @@
-{
-  "alias": "doc",
-  "prefix": "docs",
-  "dependencies": ["bajo-extra", "bajo-markdown", "dobo"]
-}
